@@ -1,0 +1,10 @@
+# Trigram VCS — Public Distribution Repository
+# All proprietary source code and development files are excluded.
+*
+!README.md
+!docs/
+!docs/images/
+!docs/images/docresources/
+!docs/images/docresources/**
+!*.vsix
+!.gitignore
