@@ -1,0 +1,20 @@
+# Vibe Code System — Public Distribution Repository
+# All proprietary source code and development files are excluded.
+*
+!README.md
+!docs/
+!docs/**
+!assets/
+!assets/**
+!*.vsix
+!*.zip
+!*.tar.gz
+!*.tgz
+!*.whl
+!*.dmg
+!*.exe
+!*.deb
+!*.rpm
+!*.appimage
+!*.jar
+!.gitignore
